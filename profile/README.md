@@ -8,9 +8,9 @@
 
 <div align="center">
   
-[![Research Excellence](https://img.shields.io/badge/🔬_Research-Excellence-brightgreen?style=for-the-badge)](https://github.com/orgs/meds-digital-systems/repositories)
+[![Research Excellence](https://img.shields.io/badge/🔬_Research-Excellence-brightgreen?style=for-the-badge)](https://github.com/orgs/meds-ee-uet/repositories)
 [![Industry Collaboration](https://img.shields.io/badge/🤝_Industry-Collaboration-blue?style=for-the-badge)](#industry-partnerships)
-[![Open Source](https://img.shields.io/badge/💻_Open-Source-orange?style=for-the-badge)](https://github.com/orgs/meds-digital-systems/repositories)
+[![Open Source](https://img.shields.io/badge/💻_Open-Source-orange?style=for-the-badge)](https://github.com/orgs/meds-ee-uet/repositories)
 [![Global Impact](https://img.shields.io/badge/🌍_Global-Impact-purple?style=for-the-badge)](#global-presence)
 
 </div>
